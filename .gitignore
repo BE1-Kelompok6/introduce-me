@@ -1,2 +1,5 @@
 # file .ini
 *.ini
+
+#folder build
+build/*
